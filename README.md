@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет! Я Ванесса 👋
 
-<!--
-**VanessaCalliope/VanessaCalliope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Frontend-разработчик. С января 2026 года активно учусь веб-разработке через приложение «Кодик». Постоянно практикуюсь и создаю свои первые проекты.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологии:
+* HTML5
+* CSS3
+* JavaScript
+* Git
+
+---
+
+### 🎯 В планах на изучение:
+* 🔹 **TypeScript** — для создания надежных сайтов.
+* 🐍 **Python** — для изучения серверной части (бэкенда).
+* ⚙️ **C++** — для глубокого понимания работы компьютера.
+
+---
+
+### 🌐 Мои языки:
+* 🇷🇺 Русский (Родной)
+* 🇹🇷 Турецкий (Разговорный / Изучаю)
+* 🇺🇸 Английский (A2 / Изучаю)
+
+
+
+---
+
+### 📂 Мои главные проекты:
+* 📑 [Моё Портфолио](https://vanessacalliope.github.io/My-portfolio/) — сайт-визитка, где собраны мои первые шаги.
+* 📋 [Форма Вебинара](https://vanessacalliope.github.io/My-portfolio/webinar-form.html) — интерактивная форма регистрации.
