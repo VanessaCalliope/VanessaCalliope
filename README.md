@@ -31,5 +31,5 @@
 ### 📂 Мои главные проекты:
 * 📑 [Моё Портфолио](https://vanessacalliope.github.io/My-portfolio/) — сайт-визитка, где собраны мои первые шаги.
 * 📋 [Форма Вебинара](https://vanessacalliope.github.io/My-portfolio/webinar-form.html) — интерактивная форма регистрации.
-* 🗂️ [База заметок](https://vanessacalliope.github.io/My-portfolio/notes.html) — персональный архив с подсказками по коду.
+* 📒 [База заметок](https://vanessacalliope.github.io/My-portfolio/notes.html) — персональный архив с подсказками по коду.
 * ✍️ [Блог](https://vanessacalliope.github.io/My-portfolio/blog.html) — персональный блог с интересными статьями.
