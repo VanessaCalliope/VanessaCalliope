@@ -28,5 +28,5 @@
 * 📋 [Форма Вебинара](https://vanessacalliope.github.io/My-portfolio/webinar-form.html) — интерактивная форма регистрации.
 * 📒 [База заметок](https://vanessacalliope.github.io/My-portfolio/notes.html) — персональный архив с подсказками по коду.
 * 👩‍💻 [Блог](https://vanessacalliope.github.io/My-portfolio/blog.html) — персональный блог с интересными статьями.
-* ☕ [Кофейня](https://vanessacalliope.github.io/My-portfolio/cafelune/) — адаптивный сайт для уютного кафе.
+* ☕ [Кофейня] (https://vanessacalliope.github.io/My-portfolio/cafelune/) — адаптивный сайт для уютного кафе.
 * 📝 [Список задач] (https://vanessacalliope.github.io/My-portfolio/todo-list.html) — удобный планировщик дел на день.
