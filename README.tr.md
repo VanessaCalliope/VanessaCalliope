@@ -6,7 +6,7 @@
 
 # Merhaba! Ben Vanessa 👋
 
-Yeni başlayan bir Frontend geliştiricisiyim. Ocak 2026'dan beri "Kodik" uygulamasıyla aktif olarak web geliştirme öğreniyorum. Sürekli pratik yapıyor ve ilk projelerimi oluşturuyorum.
+Yeni başlayan bir Frontend geliştiricisiyim. Ocak 2026'dan beri "Kodik" uygulamasıyla aktif olarak web geliştirme öğreniyorum. Sürekli pratik yapıyorum ve ilk projelerimi oluşturuyorum.
 
 ---
 
