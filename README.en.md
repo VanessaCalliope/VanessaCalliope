@@ -6,7 +6,7 @@
 
 # Hi! I'm Vanessa 👋
 
-I'm a beginner Frontend developer. Since January 2026 I've been actively learning web development through the "Kodik" app. I practice constantly and build my first projects.
+I'm a beginner Frontend developer. Since January 2026 I've been actively learning web development through the "Kodik" app.
 
 ---
 
